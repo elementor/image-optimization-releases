@@ -14,8 +14,8 @@
     "homepage" : "https://elementor.com",
     "sections" : {
         "description" : "Automatically compress and optimize images, resize larger files, convert to WebP. Do it in bulk or upon load and turbocharge your WordPress site performance.",
-        "installation" : "Get started with a few easy steps\n1. Install & activate : Image optimizer by Elementor\n2. Go to media library or Elementor Gallery and upload an image/ choose image to compress / use Bulk optimize option\n3. Start compressing (according to the settings the user defines)",
-        "changelog" : "<h4>= 1.0.0 =</h4> Initial release"
+        "installation" : "Get started with a few easy steps<br><ol><li>Install & activate : Image optimizer by Elementor</li><li>2. Go to media library or Elementor Gallery and upload an image/ choose image to compress / use Bulk optimize option</li><li>3. Start compressing (according to the settings the user defines)</li></ol>",
+        "changelog" : "<h4>= 0.0.1 =</h4> Initial release"
     },
 	"icons": {
 		"2x": "https://raw.githubusercontent.com/elementor/image-optimization-releases/master/assets/icon-256x256.png",
